@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Employee Satisfaction Survey</string>
+    <string name="question1">There is good communication from managers to employees</string>
+    <string name="question2">The amount of work expected of me is reasonable</string>
+    <string name="question3">My supervisor promotes an atmosphere of teamwork</string>
+    <string name="question4">When I have questions or concerns, my supervisor is able to address them</string>
+    <string name="question5"> I have the training I need to do my job</string>
+    <string name="question6">How satisfied are you with your career progression at The Company thus far?</string>
+
+    <string name="choice1">Strongly Disagree</string>
+    <string name="choice2">Somewhat Disagree</string>
+    <string name="choice3">Neither Agree Nor Disagree</string>
+    <string name="choice4">Somewhat Agree</string>
+    <string name="choice5">Strongly Agree</string>
+
+    <string name="submit_answers">Submit Answers</string>
+</resources>
